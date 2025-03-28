@@ -1,3 +1,5 @@
+# Ana Luísa Andrade e Kayky Julio Carrella
+
 import os 
 
 os.system("cls || clear")
